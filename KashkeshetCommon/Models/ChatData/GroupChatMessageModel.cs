@@ -1,10 +1,10 @@
-﻿using KashkeshtWorkerServiceServer.Src.Enums;
+﻿using KashkeshetCommon.Enum;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace KashkeshtWorkerServiceServer.Src.Models.ChatData
+namespace KashkeshetCommon.Models.ChatData
 {
     public class GroupChatMessageModel : MainRequest
     {

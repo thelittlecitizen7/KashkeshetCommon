@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace KashkeshtWorkerServiceServer.Src.Models.ChatModel
+namespace KashkeshetCommon.Models.ChatData
 {
     [Serializable]
     public class ChatData<T>

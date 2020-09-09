@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace KashkeshtWorkerServiceServer.Src.Models.ChatData
+namespace KashkeshetCommon.Models.ChatData
 {
     [Serializable]
     public class InsertToChatMessageModel : MainRequest

@@ -1,10 +1,9 @@
-﻿using KashkeshtWorkerServiceServer.Src.Enums;
-using KashkeshtWorkerServiceServer.Src.Models.ChatData;
+﻿using KashkeshetCommon.Enum;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 
-namespace KashkeshtWorkerServiceServer.Src.Models.ChatModel
+namespace KashkeshetCommon.Models.ChatData
 {
     [Serializable]
     public class PrivateChatMessageModel : MainRequest
